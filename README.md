@@ -1,4 +1,4 @@
-- Eggs
-- Tomatoes
-- Mozz
-- 5080
+- Dozen Eggs
+- 2 Tomatoes
+- 1 lb Mozz
+- RTX 5080 FE
